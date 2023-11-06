@@ -1,0 +1,16 @@
+{
+  "name": "opensea-playground",
+  "version": "1.0.0",
+  "description": "experiment with opensea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^6.1.1",
+    "dotenv": "^16.3.1",
+    "koa": "^2.14.2"
+  }
+}
